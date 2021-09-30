@@ -90,6 +90,6 @@ fieldset{
 }
 
 /* Animação para aumentar tamanho */
-input:hover, textarea:hover, select:hover{
-    width: 30%;
+.anima input:hover, textarea:hover, select:hover{
+    width: 40%;
 }
