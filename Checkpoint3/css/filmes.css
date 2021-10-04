@@ -45,4 +45,5 @@
 
 .card-text{
     height: 100%;
+    min-height: 230px;
 }
